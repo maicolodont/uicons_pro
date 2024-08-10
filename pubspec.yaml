@@ -1,7 +1,7 @@
 name: uicons_pro
 description: "Un paquete de iconos para Flutter basado en UIcons"
 version: 1.0.0
-homepage:
+homepage: https://github.com/maicolodont/uicons_pro/
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
