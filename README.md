@@ -46,7 +46,7 @@ Para usar `uicons_pro` en tu proyecto Flutter, agrégalo a tu archivo `pubspec.y
 dependencies:
   flutter:
     sdk: flutter
-  uicons_pro: ^1.0.0  # Reemplaza con la última versión
+  uicons_pro: ^1.1.0  # Reemplaza con la última versión
 ```
 ## Atribución
 
