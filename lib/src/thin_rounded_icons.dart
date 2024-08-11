@@ -1,6 +1,7 @@
 // ignore_for_file: non_constant_identifier_names, unused_element
 part of '../uicons_pro.dart';
 
+/// Thin Rounded Icons.
 class ThinRounded {
   ThinRounded._();
 

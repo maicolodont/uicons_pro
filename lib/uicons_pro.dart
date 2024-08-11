@@ -1,10 +1,15 @@
 library uicons_pro;
 import 'package:flutter/widgets.dart';
-part './src/RegularRounded_icons.dart';
-part './src/BoldRounded_icons.dart';
-part './src/SolidRounded_icons.dart';
-part './src/ThinRounded_icons.dart';
+part 'src/regular_rounded_icons.dart';
+part 'src/bold_rounded_icons.dart';
+part 'src/solid_rounded_icons.dart';
+part 'src/thin_rounded_icons.dart';
+part 'src/brands_icons.dart';
 
+/// Base class to get a reference of the icon and icon style.
+/// ```
+/// Icon(UIconsPro.regularRounded.home)
+/// ```
 class UIconsPro {
   UIconsPro._();
 
@@ -12,4 +17,5 @@ class UIconsPro {
   static BoldRounded get boldRounded => BoldRounded._();
   static SolidRounded get solidRounded => SolidRounded._();
   static ThinRounded get thinRounded => ThinRounded._();
+  static Brands get brands => Brands._();
 }

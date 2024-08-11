@@ -16,6 +16,13 @@ Para ver una vista previa visual de los iconos disponibles en este paquete, visi
 - SolidRounded
 - ThinRounded
 
+## Marcas
+
+Iconos de marcas
+```
+Icon(UIconsPro.brands.google);
+```
+
 ## Uso
 
 ```

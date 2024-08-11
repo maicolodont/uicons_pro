@@ -1,6 +1,6 @@
 name: uicons_pro
-description: "Un paquete de iconos para Flutter basado en UIcons"
-version: 1.0.0
+description: "Un paquete de iconos para Flutter basado en UIcons. Ofrece una elegante colección de iconos diseñados con precisión para realzar la estética de tus aplicaciones Flutter."
+version: 1.1.0
 homepage: https://github.com/maicolodont/uicons_pro/
 
 environment:
@@ -41,13 +41,16 @@ flutter:
   fonts:
     - family: RegularRounded
       fonts:
-        - asset: lib/fonts/uicons-regular-rounded.ttf
+        - asset: lib/fonts/uicons_regular_rounded.ttf
     - family: BoldRounded
       fonts:
-        - asset: lib/fonts/uicons-bold-rounded.ttf
+        - asset: lib/fonts/uicons_bold_rounded.ttf
     - family: SolidRounded
       fonts:
-        - asset: lib/fonts/uicons-solid-rounded.ttf
+        - asset: lib/fonts/uicons_solid_rounded.ttf
     - family: ThinRounded
       fonts:
-        - asset: lib/fonts/uicons-thin-rounded.ttf
+        - asset: lib/fonts/uicons_thin_rounded.ttf
+    - family: Brands
+      fonts:
+        - asset: lib/fonts/brands.ttf
